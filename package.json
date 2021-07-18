@@ -1,0 +1,25 @@
+{
+  "name": "gh-actions-encrypt-secret",
+  "version": "0.0.1",
+  "description": "Encrypt a secret for GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noway/gh-actions-encrypt-secret.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Actions",
+    "encrypt",
+    "secret"
+  ],
+  "author": "Ilia Sidorenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noway/gh-actions-encrypt-secret/issues"
+  },
+  "homepage": "https://github.com/noway/gh-actions-encrypt-secret#readme"
+}
