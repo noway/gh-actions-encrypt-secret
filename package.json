@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/noway/gh-actions-encrypt-secret/issues"
   },
-  "homepage": "https://github.com/noway/gh-actions-encrypt-secret#readme"
+  "homepage": "https://github.com/noway/gh-actions-encrypt-secret#readme",
+  "dependencies": {
+    "tweetsodium": "^0.0.5"
+  }
 }
