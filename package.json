@@ -1,6 +1,6 @@
 {
   "name": "gh-actions-encrypt-secret",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Encrypt a secret for GitHub Actions",
   "main": "index.js",
   "scripts": {

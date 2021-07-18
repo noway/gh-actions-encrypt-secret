@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-npx -y gh-actions-encrypt-secret base64-encoded-public-key plain-text-secret
+echo plain-text-secret | npx -y gh-actions-encrypt-secret base64-encoded-public-key
 ```
 
 ## npm
